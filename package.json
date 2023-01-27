@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.0"
+  },
+  "name": "nosql",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nexusghost1225/noSQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nexusghost1225/noSQL/issues"
+  },
+  "homepage": "https://github.com/nexusghost1225/noSQL#readme"
+}
