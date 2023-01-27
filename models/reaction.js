@@ -4,7 +4,7 @@ const reactionSchema = new Schema(
     {
         reactionId: {
             type: Schema.Types.ObjectIdID,
-            default: () => new Types.OnjectId(,)
+            default: () => new Types.OnjectId()
         },
         reactionBody: {
             type: String,
